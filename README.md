@@ -1,6 +1,6 @@
-# todo-vue
+# vue-pwa-typescript
 
-> Todo
+This repo is a port of the `pwa` template from Vue 2.5, made to work with Babel 7.x and in particular, [@babel/preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) for TypeScript support. This means that TypeScript will pass through and use babel-preset-env for its code generation.
 
 ## Build Setup
 
