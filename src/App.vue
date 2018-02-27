@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<script lang="js">
+<script lang="ts">
 export default {
   name: 'app'
 };
