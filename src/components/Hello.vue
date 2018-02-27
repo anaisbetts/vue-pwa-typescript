@@ -19,7 +19,7 @@
   </div>
 </template>
 
-<script>
+<script lang="js">
 export default {
   name: 'hello',
   data () {
@@ -27,7 +27,7 @@ export default {
       msg: 'Welcome to Your Vue.js PWA'
     }
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

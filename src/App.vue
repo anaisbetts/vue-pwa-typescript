@@ -10,10 +10,10 @@
   </div>
 </template>
 
-<script>
+<script lang="js">
 export default {
   name: 'app'
-}
+};
 </script>
 
 <style>
